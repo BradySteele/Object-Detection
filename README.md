@@ -1,1 +1,1 @@
-# Object-Detection
+The script loads a pre-trained EfficientDet model to detect objects in real-time from the camera feed. It continuously captures frames from the camera, resizes each frame to fit the model's input, performs object detection on each frame, and draws bounding boxes around identified persons.
